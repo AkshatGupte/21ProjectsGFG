@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://www.wikipedia.org/",
+    "depth": 0,
+    "status": 200
+  },
+  {
+    "url": "https://en.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://ja.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://ru.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://de.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://fr.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://es.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://zh.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://it.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://pl.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://pt.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://ar.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://fa.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://arz.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://nl.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://ceb.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://sv.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://uk.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://vi.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  },
+  {
+    "url": "https://war.wikipedia.org/",
+    "depth": 1,
+    "status": 200
+  }
+]
